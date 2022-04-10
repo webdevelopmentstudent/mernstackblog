@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(194, 193, 193);
+    border-radius: 50px;
+}
+header{
+    background-color: lightseagreen;
+    color: wheat;
+    border-radius: 10px;
+}
+main{
+    background-color: lightgreen;
+    color: white;
+    border-radius: 10px;
+}
+#mongodb{
+    background-color: lightblue;
+    color: blue;
+    border-radius: 10px;
+}
+#expressjs{
+    background-color: lightcoral;
+    color: green;
+    border-radius: 10px;
+}
+#reactjs{
+    background-color: lightpink;
+    color: red;
+    border-radius: 10px;
+}
+#nodejs{
+    background-color: lightsalmon;
+    color: rgb(0, 151, 245);
+    border-radius: 10px;
+}
+footer{
+    background-color: lightslategray;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+}
+a{text-decoration: none;}
+ul{list-style: none;}
